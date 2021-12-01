@@ -3,7 +3,6 @@
 ## Create a favourite movie array to add or remove the movies
 
 <br/>
-
 Instructions
 * Create a movie array
 * If the operation is add, then add the movie to the array
@@ -22,4 +21,4 @@ Input - remove
 Output - ["Lucy"]
 ```
 
-Run the test cases using ```npm run test:file favourite_movie``` to see if you code is fine
+Run the test cases using `npm run test:file favourite_movie` to see if you code is fine
